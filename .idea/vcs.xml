@@ -2,8 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MyFirstRepo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MyFirstRepo/langchain-course" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gitignore" vcs="Git" />
   </component>
 </project>
